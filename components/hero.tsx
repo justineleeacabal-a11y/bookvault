@@ -23,14 +23,14 @@ export function Hero() {
       {/* Title */}
       <div>
         <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-foreground">
-          Book Vault
+          Book Vaults
         </h1>
         <p className="mt-4 text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto">
           Discover your next <span className="font-semibold text-primary">adventure, mystery,</span> or{" "}
           <span className="font-semibold text-primary">classic</span> — all in one curated collection.
         </p>
         <p className="mt-2 text-sm sm:text-lg text-muted-foreground/80 max-w-2xl mx-auto">
-          A premium digital library and community that <span className=" text-xl font-bold text-primary">connects readers</span> with their favorite authors, hidden gems, and a world of knowledge.
+          A premium digital library and community that <span className=" text-xl font text-primary">connects readers</span> with their favorite authors, hidden gems, and a world of knowledge.
         </p>
       </div>
 
